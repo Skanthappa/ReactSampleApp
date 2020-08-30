@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "nodejs-express",
+  "author": {
+    "name": "sandeep"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  }
+}
