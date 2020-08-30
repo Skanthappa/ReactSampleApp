@@ -1,0 +1,22 @@
+
+.main{
+    margin: 70px 16% 70px 22%
+  }
+.article-image{
+    float: left;
+  }
+  .article{
+    padding-bottom: 20px;
+  }
+  .article-head, .article-content{
+    color: grey;
+  }
+  .article a{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  .article a:hover{
+    text-decoration:underline;
+  }

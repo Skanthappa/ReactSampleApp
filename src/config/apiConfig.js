@@ -1,0 +1,1 @@
+export const NEWS_API = 'http://localhost:5000';
